@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: '小资项目',
+  title: '小资后台项目',
 
   /**
    * @type {boolean} true | false
